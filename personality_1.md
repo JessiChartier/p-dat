@@ -1,6 +1,6 @@
 # Personality #1
 
-Questions should be administered for questions at a time on a sliding scale:
+Questions should be administered four questions at a time on a sliding scale:
 
 * Strongly disagree
 * Disagree
