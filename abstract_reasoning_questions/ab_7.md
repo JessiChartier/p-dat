@@ -8,4 +8,4 @@ Complete the sequence.
  D
  E
 
-![ab_7](../images/ab_7.jpg)
+![ab_7](./images/ab_7.jpg)

@@ -7,4 +7,4 @@ Which of the suggested answers completes the sequence?
  C
  D
 
- ![ab_1](../images/ab_1.jpg)
+ ![ab_1](./images/ab_1.jpg)
