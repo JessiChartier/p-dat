@@ -12,3 +12,4 @@
 8. [Logical Reasoning](logical_reasoning_5)
 9. [Diagrammatic Reasoning](diagrammatic_reasoning_4.md)
 10. [Situational Judgement](situational_judgement_6)
+11. [Abstract Reasoning](abstract_reasoning.md)
