@@ -7,4 +7,4 @@ Which tile belongs in the blank space?
  C
  D
 
-![ab_5](./images/ab_5.jpg)
+![ab_5](../images/ab_5.jpg)

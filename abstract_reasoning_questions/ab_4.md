@@ -7,4 +7,4 @@ Which domino comes next in the sequence?
  C
  D
 
-![ab_4](./images/ab_4.jpg)
+![ab_4](../images/ab_4.jpg)

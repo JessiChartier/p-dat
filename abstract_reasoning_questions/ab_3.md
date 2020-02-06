@@ -11,4 +11,4 @@ Which shape is the odd one out?
  G
  H
 
-![ab_3](./images/ab_3.jpg)
+![ab_3](../images/ab_3.jpg)

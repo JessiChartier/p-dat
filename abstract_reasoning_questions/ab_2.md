@@ -7,4 +7,4 @@ Which of the suggested answers best matches the relationship between the shapes 
  C
  D
 
-![ab_2](./images/ab_2.jpg)
+![ab_2](../images/ab_2.jpg)

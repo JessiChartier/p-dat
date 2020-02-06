@@ -8,4 +8,4 @@ Which shape comes next in the sequence?
  D
  E
 
-![ab_6](./images/ab_6.jpg)
+![ab_6](../images/ab_6.jpg)
