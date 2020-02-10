@@ -1,4 +1,4 @@
-# Abstract Reasoning Q4
+# Logical Reasoning Q4
 
 Which domino comes next in the sequence?
 
@@ -7,4 +7,4 @@ Which domino comes next in the sequence?
  C
  D
 
-![ab_4](../images/ab_4.jpg)
+![lo_4](../images/lo_4.jpg)

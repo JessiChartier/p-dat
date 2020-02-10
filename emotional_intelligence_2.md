@@ -50,3 +50,4 @@ Questions should be administered four questions at a time on a sliding scale:
 * I don't tend to lose my temper easily
 * I am confident in my own capabilities
 * I prefer working in a harmonious team
+  
