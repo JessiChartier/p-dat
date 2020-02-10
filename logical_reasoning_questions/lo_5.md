@@ -1,10 +1,13 @@
 # Logical Reasoning Q5
 
-Which tile belongs in the blank space?
+Which of the given shapes would complete the sequence?
 
- A
+ `A`
  B
  C
  D
+
+Solution
+The lines are getting progressively thicker, to the point where the lines would take over the whole square.
 
 ![lo_5](../images/lo_5.jpg)
