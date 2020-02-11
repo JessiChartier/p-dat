@@ -13,3 +13,4 @@
 9. [Diagrammatic Reasoning](diagrammatic_reasoning_4.md)
 10. [Situational Judgement](situational_judgement_6.md)
 11. [Abstract Reasoning](abstract_reasoning.md)
+12. [Mathematical Evaluation](mathematical_reasoning.md)
