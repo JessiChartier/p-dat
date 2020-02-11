@@ -14,4 +14,18 @@ Abstract reasoning tests can also be referred to as diagrammatic and inductive r
 * [Abstract Reasoning 8](./abstract_reasoning_questions/ab_8.md)
 * [Abstract Reasoning 9](./abstract_reasoning_questions/ab_9.md)
 * [Abstract Reasoning 10](./abstract_reasoning_questions/ab_10.md)
-  
+
+## P-DAT Test Sections
+
+1. Personal Information
+2. Education and Training
+3. Employment History
+4. References
+5. [Personality](personality_1.md)
+6. [Emotional Intelligence](emotional_intelligence_2.md)
+7. [Resilience](resilience_3.md)
+8. [Logical Reasoning](logical_reasoning_5.md)
+9. [Diagrammatic Reasoning](diagrammatic_reasoning_4.md)
+10. [Situational Judgement](situational_judgement_6.md)
+11. [Abstract Reasoning](abstract_reasoning.md)
+12. [Mathematical Evaluation](mathematical_reasoning.md)

@@ -52,3 +52,18 @@ Questions should be administered four questions at a time on a sliding scale:
 * I believe that sharing a problem really helps
 * I don't feel anxious or tense very often
 * I believe myself to be a good person
+
+## P-DAT Test Sections
+
+1. Personal Information
+2. Education and Training
+3. Employment History
+4. References
+5. [Personality](personality_1.md)
+6. [Emotional Intelligence](emotional_intelligence_2.md)
+7. [Resilience](resilience_3.md)
+8. [Logical Reasoning](logical_reasoning_5.md)
+9. [Diagrammatic Reasoning](diagrammatic_reasoning_4.md)
+10. [Situational Judgement](situational_judgement_6.md)
+11. [Abstract Reasoning](abstract_reasoning.md)
+12. [Mathematical Evaluation](mathematical_reasoning.md)

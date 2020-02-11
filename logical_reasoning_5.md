@@ -15,3 +15,18 @@ The Logical Reasoning section of the PDAT questions come in three forms: deducti
 * [Logical Reasoning 9](./logical_reasoning_questions/lo_9.md)
 * [Logical Reasoning 10](./logical_reasoning_questions/lo_10.md)
   
+## P-DAT Test Sections
+
+1. Personal Information
+2. Education and Training
+3. Employment History
+4. References
+5. [Personality](personality_1.md)
+6. [Emotional Intelligence](emotional_intelligence_2.md)
+7. [Resilience](resilience_3.md)
+8. [Logical Reasoning](logical_reasoning_5.md)
+9. [Diagrammatic Reasoning](diagrammatic_reasoning_4.md)
+10. [Situational Judgement](situational_judgement_6.md)
+11. [Abstract Reasoning](abstract_reasoning.md)
+12. [Mathematical Evaluation](mathematical_reasoning.md)
+  
