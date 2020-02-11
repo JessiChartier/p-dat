@@ -1,4 +1,6 @@
-# Emotional Intelligence #2
+# Emotional Intelligence
+
+The Emotional Intelligence section (EQ) of the PDAT assesses a person's ability to empathise, identify, evaluate, control and express ones emotions, as well as those of others. It reveals how you use emotions to facilitate thinking and understand emotional meanings.
 
 Questions should be administered four questions at a time on a sliding scale:
 

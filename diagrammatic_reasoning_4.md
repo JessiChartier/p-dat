@@ -1,6 +1,6 @@
-# Diagrammatic Reasoning #4
+# Diagrammatic Reasoning
 
-Diagrammatic reasoning tests assess your logical reasoning ability. The questions measure your ability to infer a set of rules from a flowchart or sequence of diagrams and then to apply those rules to a new situation.
+The PDAT's diagrammatic reasoning evaluation assesss your logical reasoning ability. The questions measure your ability to infer a set of rules from a flowchart or sequence of diagrams and then to apply those rules to a new situation.
 
 ## Questions
 

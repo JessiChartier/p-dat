@@ -1,5 +1,7 @@
 # Situational Judgement
 
+The Situational Judgement section assess how you approach situations encountered in the workplace. They are built around hypothetical scenarios to which you would be expected to react accordingly.
+
 Read the passage and select how you would most likely and least likely respond
 
 ## Question 1

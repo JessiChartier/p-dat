@@ -1,6 +1,6 @@
 # Logical Reasoning #5
 
-Logical Reasoning tests come in three forms: deductive, inductive and abstract. These types of tests do not present you with verbal or numerical information, but instead with logical patterns and shape sequences.
+The Logical Reasoning section of the PDAT questions come in three forms: deductive, inductive and abstract. These types of exercises do not present you with verbal or numerical information, but instead with logical patterns and shape sequences.
 
 ## Questions
 

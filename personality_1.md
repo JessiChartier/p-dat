@@ -1,4 +1,6 @@
-# Personality #1
+# Personality
+
+It is a common belief among psychologists that there are five basic dimensions of personality, often referred to as the "Big 5" personality traits. The five broad personality traits described by the theory are extraversion, agreeableness, openness, conscientiousness, and neuroticism. This part of the PDAT evaluation reveals where you are on the scale of each.
 
 Questions should be administered four questions at a time on a sliding scale:
 

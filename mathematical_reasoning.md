@@ -1,6 +1,6 @@
 # Mathematical Evaluation
 
-Mathematical evaluation tests demonstrate a candidates ability to deal with numbers quickly and accurately. These tests contain questions that assess your knowledge of ratios, percentages, number sequences, data interpretation, financial analysis and currency conversion.
+The Mathematical Evaluation demonstrates your ability to deal with numbers quickly and accurately. These tests contain questions that assess your knowledge of ratios, percentages, number sequences, data interpretation, financial analysis and currency conversion.
 
 * [ma_1](./mathematical_eval_questions/ma_1.md)
 * [ma_2](./mathematical_eval_questions/ma_2.md)

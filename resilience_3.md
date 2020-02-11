@@ -1,4 +1,6 @@
-# Resilience #3
+# Resilience
+
+How resilient are you? Do you cope well with life's trials and tribulations, or do they throw you into turmoil? Resilience is the quality that allows us to "survive", and even gain strength from hardship. The resilience evaluation assesses how resilient you are.
 
 Questions should be administered four questions at a time on a sliding scale:
 
